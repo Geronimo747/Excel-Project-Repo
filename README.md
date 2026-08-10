@@ -20,17 +20,22 @@ The aim of this project is to build confidence in using Excel for data-driven de
 - Created Pivot Tables to analyse bike sales data.
 - Investigated performance by country, age group, and gender.
 - Answered analytical questions and identified key business insights.
+<img width="895" height="200" alt="image" src="https://github.com/user-attachments/assets/b27954db-5f24-423d-9aaf-65cddd5bde7b" />
 
 #### 📍 Task 2: Product Sales Analysis
 - Built a Pivot Table to summarise sales by county and product.
 - Used the `SWITCH` function to categorise sales volumes as High, Medium, or Low.
 - Practised data organisation and summarisation techniques.
+<img width="698" height="573" alt="image" src="https://github.com/user-attachments/assets/6618c04c-e9ae-4837-9f9f-41a85349463a" />
+<img width="769" height="414" alt="image" src="https://github.com/user-attachments/assets/9714c7c8-7f88-4b4e-aafe-eff0a792d74e" />
 
 #### 📍 Task 3: Data Visualisation
 - Developed charts and visual reports from sales datasets.
 - Explored different ways to communicate data effectively.
 - Enhanced reporting and presentation skills.
 <img width="482" height="290" alt="image" src="https://github.com/user-attachments/assets/359ce719-d75e-4b61-a000-a644b3ca3dd0" />
+<img width="482" height="290" alt="image" src="https://github.com/user-attachments/assets/53b96d03-6b79-4431-80a1-32927ae12cc6" />
+<img width="482" height="290" alt="image" src="https://github.com/user-attachments/assets/6b40d781-5dcf-4008-b8d4-98ca002427a5" />
 
 
 ### 🎯 Skills Developed
