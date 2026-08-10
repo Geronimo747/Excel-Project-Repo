@@ -10,8 +10,11 @@ The workbook contains three main tasks:
 I used a bike sales dataset to:
 
 -Create and explore Pivot Tables.
+
 -Analyse sales by country, age group, and gender.
+
 -Identify trends and business insights from the data.
+
 -Reflect on findings and answer analysis questions.
 
 Examples of findings recorded in the workbook include:
