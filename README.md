@@ -1,159 +1,48 @@
-# Excel-Project
-## Overview
+## 📊 Project Overview
 
+This project is part of the **Data Technician Week 1 Excel Workbook** and focuses on developing essential data analysis skills using Microsoft Excel. Through a series of practical exercises, learners work with sales datasets to explore, analyse, and present data in meaningful ways. 
 
-This project is part of the **Data Technician Programme** and focuses on developing core Microsoft Excel skills used in data analysis. The workbook provides hands-on exercises using real-world sales datasets to practice data manipulation, summarisation, analysis, and visualisation. 
+### 🚀 Project Goals
 
+The aim of this project is to build confidence in using Excel for data-driven decision-making by learning how to:
 
-## Objectives
+- 📈 Create and analyse Pivot Tables
+- 🔍 Identify trends and patterns within datasets
+- 🧮 Apply Excel formulas and functions, including the `SWITCH` function
+- 📊 Create charts and data visualisations
+- 💡 Generate business insights from raw data
+- 📋 Present findings in a clear and professional format
+  
 
+### 🛠️ Key Activities
 
-By completing this workbook, learners will:
+#### 📍 Task 1: Bike Sales Analysis
+- Created Pivot Tables to analyse bike sales data.
+- Investigated performance by country, age group, and gender.
+- Answered analytical questions and identified key business insights.
 
+#### 📍 Task 2: Product Sales Analysis
+- Built a Pivot Table to summarise sales by county and product.
+- Used the `SWITCH` function to categorise sales volumes as High, Medium, or Low.
+- Practised data organisation and summarisation techniques.
 
-- Create and analyse Pivot Tables.
+#### 📍 Task 3: Data Visualisation
+- Developed charts and visual reports from sales datasets.
+- Explored different ways to communicate data effectively.
+- Enhanced reporting and presentation skills.
+<img width="482" height="290" alt="image" src="https://github.com/user-attachments/assets/359ce719-d75e-4b61-a000-a644b3ca3dd0" />
 
-- Use Excel formulas and functions, including `SWITCH`.
 
-- Interpret data and identify business insights.
+### 🎯 Skills Developed
 
-- Build charts and visualisations.
+- 📊 Microsoft Excel
+- 📈 Pivot Tables & Pivot Charts
+- 🧮 Excel Functions (`SWITCH`)
+- 🔍 Data Analysis
+- 📉 Data Visualisation
+- 💼 Business Reporting
+- 🧠 Critical Thinking & Problem Solving
 
-- Gain practical experience working with datasets. 
+### ✅ Outcome
 
- 
----
-
-
-## Tasks Completed
-
- 
-### Task 1: Bike Sales Pivot Table Analysis
-
-<img width="895" height="200" alt="image" src="https://github.com/user-attachments/assets/ffe3e785-7153-45d7-ab55-969355aa0761" />
-
- 
-**Activities**
-
-- Created Pivot Tables from a bike sales dataset.
-
-- Analysed sales by country, age group, and gender.
-
-- Identified trends and answered business-focused questions. 
-
-
-**Key Findings**
-
-- Germany only had customers in the Adult age group.
-
-- Australia and the UK had sales across all markets.
-
-- The USA generated the highest profitability in several categories.
-
-- The USA youth segment showed lower performance compared to other age groups.
-
-
----
-
-
-### Task 2: County Product Sales Analysis
-
-
-<img width="698" height="573" alt="image" src="https://github.com/user-attachments/assets/0d2720ce-7ee4-47f8-b916-42f643dcf320" />
-
-<img width="769" height="414" alt="image" src="https://github.com/user-attachments/assets/a5320221-f12a-4c13-a191-b9ebd911428b" />
-
-
-**Activities**
-
-- Created a Pivot Table summarising sales by county and product.
-
-- Applied the `SWITCH` function to classify sales volume into categories:
-
-- High (>600)
-
-- Medium (300–600)
-
-- Low (<300) 
- 
-
-**Skills Demonstrated**
-
-- Data summarisation
-
-- Pivot Table design
-
-- Conditional logic using Excel formulas 
-
- 
----
-
-
-### Task 3: Data Visualisation
-
-
-<img width="482" height="290" alt="image" src="https://github.com/user-attachments/assets/d2cb0c6a-213f-4501-86d4-d245a0f03452" />
-
-<img width="482" height="290" alt="image" src="https://github.com/user-attachments/assets/643d1113-95e9-4764-bb6f-8070ddddf98c" />
-
-<img width="482" height="290" alt="image" src="https://github.com/user-attachments/assets/e4ce5cd3-d8e0-42e7-9794-241dc77f7bb8" />
-
-
-**Activities**
-
-- Created charts and visualisations from a bike sales dataset.
-
-- Explored sales trends using graphical representations.
-
-- Improved data storytelling and reporting skills. 
- 
----
- 
-
-## Skills Developed
-
- 
-- Microsoft Excel
-
-- Pivot Tables
-
-- Data Analysis
-
-- Data Cleaning and Organisation
-
-- Business Insight Reporting
-
-- SWITCH Function
-
-- Data Visualisation
-
-- Analytical Thinking 
- 
-
----
-
- 
-## Deliverables
-
- 
-- Completed Pivot Tables
-
-- Sales categorisation using the `SWITCH` function
-
-- Data visualisations and charts
-
-- Analysis and reflection responses
-
-- Final workbook submission via Microsoft Teams
- 
-
----
- 
-
-## Learning Outcome
- 
-
-This workbook demonstrates the ability to use Excel as a data analysis tool by transforming raw sales data into meaningful insights through Pivot Tables, formulas, and visualisations. It provides foundational skills required for a Data Technician role. 
-
- 
-
+By completing this project, learners gain hands-on experience transforming raw data into meaningful insights through analysis, reporting, and visualisation. These skills form a strong foundation for future work as a **Data Technician** and support data-driven decision-making in business environments. 
