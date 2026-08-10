@@ -31,7 +31,8 @@ By completing this workbook, learners will:
 ### Task 1: Bike Sales Pivot Table Analysis
 
 <img width="895" height="200" alt="image" src="https://github.com/user-attachments/assets/ffe3e785-7153-45d7-ab55-969355aa0761" />
- 
+
+ 
 **Activities**
 
 - Created Pivot Tables from a bike sales dataset.
@@ -57,9 +58,11 @@ By completing this workbook, learners will:
 
 ### Task 2: County Product Sales Analysis
 
+
 <img width="698" height="573" alt="image" src="https://github.com/user-attachments/assets/0d2720ce-7ee4-47f8-b916-42f643dcf320" />
 
 <img width="769" height="414" alt="image" src="https://github.com/user-attachments/assets/a5320221-f12a-4c13-a191-b9ebd911428b" />
+
 
 **Activities**
 
@@ -88,11 +91,13 @@ By completing this workbook, learners will:
 
 ### Task 3: Data Visualisation
 
+
 <img width="482" height="290" alt="image" src="https://github.com/user-attachments/assets/d2cb0c6a-213f-4501-86d4-d245a0f03452" />
 
 <img width="482" height="290" alt="image" src="https://github.com/user-attachments/assets/643d1113-95e9-4764-bb6f-8070ddddf98c" />
 
 <img width="482" height="290" alt="image" src="https://github.com/user-attachments/assets/e4ce5cd3-d8e0-42e7-9794-241dc77f7bb8" />
+
 
 **Activities**
 
