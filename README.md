@@ -1,19 +1,15 @@
 # My-Excel-Project-Repo
 ## Overview
 
- 
 
 This project is part of the **Data Technician Programme** and focuses on developing core Microsoft Excel skills used in data analysis. The workbook provides hands-on exercises using real-world sales datasets to practice data manipulation, summarisation, analysis, and visualisation. 
 
- 
 
 ## Objectives
 
- 
 
 By completing this workbook, learners will:
 
- 
 
 - Create and analyse Pivot Tables.
 
@@ -43,7 +39,6 @@ By completing this workbook, learners will:
 
 - Identified trends and answered business-focused questions. 
 
- 
 
 **Key Findings**
 
@@ -55,11 +50,9 @@ By completing this workbook, learners will:
 
 - The USA youth segment showed lower performance compared to other age groups.
 
- 
 
 ---
 
- 
 
 ### Task 2: County Product Sales Analysis
 
@@ -75,8 +68,7 @@ By completing this workbook, learners will:
 
 - Medium (300–600)
 
-- Low (<300) 【1-8e7c62】
-
+- Low (<300) 
  
 
 **Skills Demonstrated**
@@ -88,10 +80,8 @@ By completing this workbook, learners will:
 - Conditional logic using Excel formulas 
 
  
-
 ---
 
- 
 
 ### Task 3: Data Visualisation
 
