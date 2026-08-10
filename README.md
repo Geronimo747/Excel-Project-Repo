@@ -144,15 +144,3 @@ This workbook demonstrates the ability to use Excel as a data analysis tool by t
 
  
 
-## Resources
-
- 
-- Cisco Networking Academy – Data Analytics Essentials
-
-- Excel Formulas and Functions Tutorials
-
-- Excel Exercises Dashboard
-
-- Excel Interview Preparation Resources
-
-- Microsoft Excel Video Tutorials 
