@@ -1,4 +1,4 @@
-## <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/cc86c902-8446-4cdf-bd59-53ac36790ed7" /> Project Overview
+## <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/cc86c902-8446-4cdf-bd59-53ac36790ed7" /> Project Overview - Data Analysis 
 
 This project is part of the **Data Technician Week 1 Excel Workbook** and focuses on developing essential data analysis skills using Microsoft Excel. Through a series of practical exercises, learners work with sales datasets to explore, analyse, and present data in meaningful ways. 
 
