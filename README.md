@@ -1,8 +1,8 @@
-## 📊 Project Overview
+## Project Overview
 
 This project is part of the **Data Technician Week 1 Excel Workbook** and focuses on developing essential data analysis skills using Microsoft Excel. Through a series of practical exercises, learners work with sales datasets to explore, analyse, and present data in meaningful ways. 
 
-### 🚀 Project Goals
+### Project Goals
 
 The aim of this project is to build confidence in using Excel for data-driven decision-making by learning how to:
 
@@ -14,7 +14,7 @@ The aim of this project is to build confidence in using Excel for data-driven de
 - 📋 Present findings in a clear and professional format
   
 
-### 🛠️ Key Activities
+### Key Activities
 
 #### Task 1: Bike Sales Analysis
 - Created Pivot Tables to analyse bike sales data.
@@ -48,6 +48,6 @@ The aim of this project is to build confidence in using Excel for data-driven de
 - 💼 Business Reporting
 - 🧠 Critical Thinking & Problem Solving
 
-### ✅ Outcome
+### Outcome
 
 By completing this project, learners gain hands-on experience transforming raw data into meaningful insights through analysis, reporting, and visualisation. These skills form a strong foundation for future work as a **Data Technician** and support data-driven decision-making in business environments. 
